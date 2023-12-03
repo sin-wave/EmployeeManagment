@@ -1,2 +1,3 @@
-SERVICE:
-  EMPLOYEE: "Employee not present in the DataBase as per Pratik"
+spring:
+  SERVICE:
+    EMPLOYEE: "Employee not present in the DataBase as per Pratik"
